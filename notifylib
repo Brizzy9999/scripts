@@ -107,4 +107,3 @@ function notify(titletxt, messagetxt, waittime)
 	end
 	coroutine.wrap(DMMLZ_fake_script)()
 end
-return notify
